@@ -1,0 +1,7 @@
+name: hello
+copyright: (c) 2020 Mani Jamali
+license: CC0
+unpack: /
+build: 1399-02-27
+version: 0.0.1
+description: Simple hello world package
